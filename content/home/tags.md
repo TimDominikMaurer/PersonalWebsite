@@ -6,6 +6,7 @@ widget: tag_cloud
 # Activate this widget? true/false
 active: false
 
+
 # This file represents a page section.
 headless: true
 
