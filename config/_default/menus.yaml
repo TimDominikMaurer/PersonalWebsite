@@ -23,5 +23,5 @@ main:
   #   url: courses/
   #   weight: 60
   - name: CV
-    url: '/CV_TimDominikMaurer.pdf'
+    url: 'static/media/CV_TimDominikMaurer.pdf'
     weight: 70
