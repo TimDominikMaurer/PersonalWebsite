@@ -48,3 +48,5 @@ title: Tim Dominik Maurer
 
 I am a second year PhD student at the [Department of Economics, Copenhagen Business School](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics)  and at the [Research Unit of Danmarks Nationalbank](https://www.nationalbanken.dk/en/research/economists/Pages/Research-Unit-Economists.aspx). My research focuses on macroeconomics, macro-finance, pension economics and monetary policy.
 
+The views expressed are my own.
+
