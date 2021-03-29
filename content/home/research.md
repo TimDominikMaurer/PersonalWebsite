@@ -11,7 +11,7 @@ active: true
 weight: 65
 
 title: Research
-subtitle: 'Working papers'
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
@@ -49,3 +49,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+What is going on??
