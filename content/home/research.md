@@ -65,7 +65,7 @@ This paper evaluates the economic sources of the stock market responses of 40 co
 ### Toolkit for solving overlapping generations models with linked bequest
 *(joint with [Frederik Bjørn Christensen](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/fbceco))*
 
-We describe in detail how to solve and estimate an overlapping generations models with dynasty-linked bequest, idiosyncratic income risk and exogenous retirement. 
+We describe in detail how to solve and estimate an overlapping generations model with dynasty-linked bequest, idiosyncratic income risk and exogenous retirement. 
 
 ### Optimal pension policy
 
