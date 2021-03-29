@@ -54,7 +54,7 @@ design:
 ## Working papers
 
 ### Stock market evidence on the international transmission channels of US monetary policy surprises
-*joint with [Thomas Nitschka](https://sites.google.com/site/tnitschka/)*
+*(joint with [Thomas Nitschka](https://sites.google.com/site/tnitschka/))*
 
 This paper evaluates the economic sources of the stock market responses of 40 countries to surprises in the fed funds rate (FFR), the Fed's forward guidance (FG) and large-scale asset purchases (LSAP). We use decompositions of stock market returns into different components reflecting investors' revisions in expectations (news) about future cash flows, expected returns, real interest rates and the real exchange rate to show that FFR and LSAP surprises affect foreign stock markets because they influence foreign countries' real economic outlook. FG surprises seem to convey non-monetary information, such as the Fed's risk assessment, to which foreign stock markets react. [(Link to latest version, March 2021)](https://www.dropbox.com/home?preview=StockMarketNews_FedMoPo.pdf)
 
@@ -63,7 +63,7 @@ This paper evaluates the economic sources of the stock market responses of 40 co
 ## Work in progress
 
 ### Toolkit for solving overlapping generations models with linked bequest
-*joint with [Frederik Bjørn Christensen](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/fbceco)*
+*(joint with [Frederik Bjørn Christensen](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/fbceco))*
 
 We describe in detail how to solve and estimate an overlapping generations models with dynasty-linked bequest, idiosyncratic income risk and exogenous retirement. 
 
