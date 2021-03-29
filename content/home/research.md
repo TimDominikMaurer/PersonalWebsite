@@ -8,7 +8,7 @@ active: true
 
 
 # Order that this section appears on the page.
-weight: 65
+weight: 
 
 title: Research
 subtitle: ''
@@ -50,4 +50,4 @@ design:
   flip_alt_rows: false
 ---
 
-# Working papers
+## Working papers
