@@ -58,12 +58,14 @@ design:
 
 This paper evaluates the economic sources of the stock market responses of 40 countries to surprises in the fed funds rate (FFR), the Fed's forward guidance (FG) and large-scale asset purchases (LSAP). We use decompositions of stock market returns into different components reflecting investors' revisions in expectations (news) about future cash flows, expected returns, real interest rates and the real exchange rate to show that FFR and LSAP surprises affect foreign stock markets because they influence foreign countries' real economic outlook. FG surprises seem to convey non-monetary information, such as the Fed's risk assessment, to which foreign stock markets react. [(Link to latest version, March 2021)](https://www.dropbox.com/home?preview=StockMarketNews_FedMoPo.pdf)
 
+&nbsp;
+
 ## Work in progress
 
-### Toolkit for solving life-cyle models with linked bequest
+### Toolkit for solving overlapping generations models with linked bequest
 (joint with [Frederik Bjørn Christensen](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/fbceco))
 
-Coming soon...
+We demonstrate in detail how to solve and estimate a overlapping generations models with dynasty-linked bequest, idiosyncratic income risk and exogenous retirement. 
 
 ### Optimal pension policy
 
