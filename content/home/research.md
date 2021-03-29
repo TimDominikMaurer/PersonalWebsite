@@ -52,6 +52,7 @@ design:
 
 ## Working papers
 
+\vspace{12pt}
 
 [Stock market evidence on the international transmission channels of US monetary policy surprises](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics) \
 (joint with [Thomas Nitschka](https://sites.google.com/site/tnitschka/))
