@@ -11,7 +11,7 @@ active: true
 weight: 65
 
 title: Research
-subtitle: ''
+subtitle: 'Working papers'
 
 content:
   # Page type to display. E.g. project.
