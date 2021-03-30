@@ -5,7 +5,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: Copenhagen Business School
-    year: 2019-
+    year: since 2019
   - course: MSc in Economics and Finance
     institution: Copenhagen Business School
     year: 2018
