@@ -26,7 +26,7 @@ role: PhD in Economics
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  url = "mailto:tima.eco@cbs.dk"
 - display:
     header: true
   icon: twitter
