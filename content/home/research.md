@@ -62,10 +62,10 @@ This paper evaluates the economic sources of the stock market responses of 40 co
 
 ## Work in progress
 
-### Toolkit for solving overlapping generations models with linked bequest
+### A toolkit on solving overlapping generations models with family-linked bequest and intergenerational skill transmission
 *(joint with [Frederik Bjørn Christensen](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/fbceco))*
 
-We describe in detail how to solve and estimate an overlapping generations model with dynasty-linked bequest, idiosyncratic income risk and exogenous retirement. 
+Several papers incorporate family-linked bequest and intergenerational transmission of skills in life-cycle models. However, to the best of our knowledge, none of these papers offer a comprehensive guide on their solution methods. Thus, the contribution of this paper is to develop a detailed toolkit on how to solve, simulate, and estimate a partial equilibrium, overlapping generations model with family-linked accidental and voluntary bequest, intergenerational transmission of skills, persistent idiosyncratic income risk, permanent income heterogeneity, and retirement. This model reasonably matches empirical measures of wealth inequality. 
 
 ### Optimal pension policy
 
