@@ -41,7 +41,7 @@ social:
   link: https://github.com/TimDominikMaurer
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/tim-maurer-73a8b2b9/
+  link: https://www.linkedin.com/in/tim-dominik-maurer-73a8b2b9/
 superuser: true
 title: Tim Dominik Maurer
 ---
