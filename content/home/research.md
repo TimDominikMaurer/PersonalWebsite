@@ -66,6 +66,7 @@ This paper evaluates the economic sources of the stock market responses of 40 co
 
 Coming soon...
 
+&nbsp;
 
 ## Technical work
 
