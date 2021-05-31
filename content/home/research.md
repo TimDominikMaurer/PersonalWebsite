@@ -66,6 +66,9 @@ This paper evaluates the economic sources of the stock market responses of 40 co
 
 Coming soon...
 
+
+## Technical work
+
 ### A toolkit on solving overlapping generations models with family-linked bequest and intergenerational skill transmission
 *(joint with [Frederik Bjørn Christensen](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/fbceco))*
 
