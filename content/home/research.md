@@ -67,6 +67,7 @@ This paper evaluates the economic sources of the stock market responses of 40 co
 Coming soon...
 
 ### Redistribution in public pension schemes: Evidence from Denmark
+*(joint with [Frederik Bjørn Christensen](https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/fbceco))*
 
 Coming soon...
 
