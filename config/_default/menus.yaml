@@ -26,5 +26,5 @@ main:
   #   url: courses/
   #   weight: 60
   - name: CV
-    url: 'https://www.cbs.dk/files/cbs.dk/cv_tdm.pdf'
+    url: 'https://www.cbs.dk/files/cbs.dk/cv_tdm_june2021.pdf'
     weight: 70
